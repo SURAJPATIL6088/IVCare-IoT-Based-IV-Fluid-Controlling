@@ -1,4 +1,4 @@
-# IVCare-IoT-Based-IV-Fluid-Controlling
+# IVCare : IoT Based IV Fluid Controlling.
 
 # Project Objectives:
 
