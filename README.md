@@ -23,7 +23,7 @@ In this proposed system there is an IoT-based IV fluid management solution desig
   3. Servo Motor: Regulates the drip rate of IV fluid, allowing for precise control.
   4. Blynk IoT Platform: A user-friendly interface for remote access and control by authorized users.
 
-- How It Works
+- How It Works <br>
 The ESP32 communicates with sensors and controls the servo motor to achieve the desired drip rate. Data is securely transmitted to and from the Blynk IoT platform, providing real-time feedback and alerts.<br>
 <hr>
 
