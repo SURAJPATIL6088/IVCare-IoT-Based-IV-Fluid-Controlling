@@ -29,6 +29,8 @@ The ESP32 communicates with sensors and controls the servo motor to achieve the 
 
 ## Fig. 1: Architecture diagram of the proposed system
 
+![image](https://github.com/user-attachments/assets/c3e07191-d4a0-4230-abb5-45a538055693)
+
 <br>
 <hr>
 
